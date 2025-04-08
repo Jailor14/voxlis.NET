@@ -476,5 +476,21 @@
         "lastEditedBy": "Mr. Ratter",
         "lastEditedByImage": "assets/unverified.png",
         "warning": true
-    }
+    }{
+        "name": "Zenix",
+        "pros": ["Good UI, 80% UNC, and fast updates."],
+        "neutral": [Avast is deleting it, Don't have an official site],
+        "link": "https://www.mediafire.com/file/o0n9dh9tdfzav3f/Zenix_Update.zip/file",
+        "linkprotected": "https://rekonise.com/zenix-lol-7dk5w",
+        "cons": [],
+        "buttonText": "Website",
+        "types": ["unc", "windows"],
+        "unc": "",
+        "lastEditedBy": "Jailor14",
+        "lastEditedByImage": "assets/verified.png",
+        "buylink": "",
+        "buytext": "",
+        "glow": "#A14AA1",
+        "glowTextHoverColor": "#FFFFFF"
+    },
 ]
