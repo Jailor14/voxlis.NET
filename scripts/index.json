@@ -27,7 +27,8 @@
         "types": ["unc", "windows"],
         "unc": "https://voxlis.net/assets/unc/delta.json",
         "lastEditedBy": "Jailor14",
-        "lastEditedByImage": "assets/unverified.png"
+        "lastEditedByImage": "assets/unverified.png",
+        "glow": "#A14AA1"
     },
     {
         "name": "Swift",
