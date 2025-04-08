@@ -477,4 +477,15 @@
         "lastEditedByImage": "assets/unverified.png",
         "warning": true
     }
-]
+{
+        "name": "zENIX",
+        "pros": ["53% sUNC [80% UNC]", "Level 5"],
+        "neutral": ["Skidded Api"],
+        "cons": [Don't have official website],
+        "link": "https://www.mediafire.com/file/o0n9dh9tdfzav3f/Zenix_Update.zip/file",
+        "linkprotected": "https://www.mediafire.com/file/o0n9dh9tdfzav3f/Zenix_Update.zip/file",
+        "types": ["unc", "windows],
+        "unc": "https://voxlis.net/assets/unc/krnl.json",
+        "lastEditedBy": "Jailor14",
+        "lastEditedByImage": "assets/verified.png"
+    },
