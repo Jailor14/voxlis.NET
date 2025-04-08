@@ -15,7 +15,8 @@
         "buytext": "$6.49 weekly",
         "glow": "#A14AA1",
         "glowTextHoverColor": "#FFFFFF"
-    },{
+    },
+    {
         "name": "Zenix",
         "pros": ["Good UI", "80% UNC"],
         "neutral": ["Expect some crashes"],
