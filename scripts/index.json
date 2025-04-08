@@ -15,6 +15,18 @@
         "buytext": "$6.49 weekly",
         "glow": "#A14AA1",
         "glowTextHoverColor": "#FFFFFF"
+    },{
+        "name": "Zenix",
+        "pros": ["Good UI", "80% UNC"],
+        "neutral": ["Expect some crashes"],
+        "cons": [],
+        "link": "https://www.mediafire.com/file/o0n9dh9tdfzav3f/Zenix_Update.zip/file",
+        "linkprotected": "https://rekonise.com/zenix-lol-7dk5w",
+        "buttonText": "FREE",
+        "types": ["unc", "windows"],
+        "unc": "https://voxlis.net/assets/unc/delta.json",
+        "lastEditedBy": "Jailor14",
+        "lastEditedByImage": "assets/unverified.png"
     },
     {
         "name": "Swift",
